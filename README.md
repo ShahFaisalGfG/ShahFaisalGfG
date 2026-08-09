@@ -10,7 +10,7 @@ Backend developer working mostly in Python. Currently building backend systems a
 - **AI tooling:** LangChain
 - **Infra:** Docker, GitHub Actions
 
-I also have earlier experience with C#/.NET and Angular, but Python backend work is where I focus now.
+I also have earlier experience with C#/.NET, but Python backend work is where I focus now.
 
 ## Projects I maintain
 
