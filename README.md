@@ -22,6 +22,6 @@ Offline subtitle generator. Transcribes audio and video with Whisper, translates
 
 ## Elsewhere
 
-- Portfolio: https://shahfaisalgfg.github.io/shahfaisal
-- Email: shahfaisalgfg@gmail.com
-- LinkedIn: https://linkedin.com/in/shah-faisal-gfg
+- Portfolio: <https://shahfaisalgfg.github.io>
+- Email: <shahfaisalgfg@gmail.com>
+- LinkedIn: <https://linkedin.com/in/shah-faisal-gfg>
