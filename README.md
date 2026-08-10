@@ -1,13 +1,13 @@
 # Shah Faisal
 
-Backend developer working mostly in Python. Currently building backend systems at [Meissasoft](https://github.com/meissasoft), writing FastAPI services and working with PostgreSQL and other SQL databases, LangChain pipelines, Celery workers, Redis, and Docker.
+Software Engineer specializing in backend development and AI integration. Currently building backend systems at [Meissasoft](https://github.com/meissasoft): FastAPI services, PostgreSQL and other SQL databases, LangChain-based LLM and agentic AI features, Celery workers, Redis, and Docker.
 
 ## What I use day to day
 
 - **Languages:** Python, SQL
 - **Backend:** FastAPI, Celery, Redis
 - **Data:** PostgreSQL and other SQL databases
-- **AI tooling:** LangChain
+- **AI tooling:** LangChain, LLMs, Agentic AI
 - **Infra:** Docker, GitHub Actions
 
 I also have earlier experience with C#/.NET, but Python backend work is where I focus now.
