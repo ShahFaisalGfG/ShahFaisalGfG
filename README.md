@@ -2,7 +2,7 @@
 
 Software Engineer specializing in backend development and AI integration, based in Lahore, Pakistan. At [Meissasoft](https://github.com/meissasoft) I build backend systems: FastAPI services, PostgreSQL and other SQL databases, LangChain-based LLM and agentic AI features, Celery workers, Redis, and Docker.
 
-Outside work I build free, open-source tools under the **gfgRoyal** name: desktop apps for Windows, a browser extension, and command-line utilities. They run on your own machine and collect no data.
+Outside work I build free, open-source tools under the **gfgRoyal** name: desktop apps for Windows, a browser extension, an AI agent skill, and command-line utilities. They run on your own machine and collect no data.
 
 ## What I use day to day
 
@@ -23,6 +23,7 @@ I also have earlier experience with C#/.NET; Python backend work is where I focu
 | **[CC-Gen-Ultimate](https://github.com/ShahFaisalGfG/CC-Gen-Ultimate)** | Offline subtitle and dubbing studio: transcribes with Whisper, translates, transliterates (including Roman Urdu), and dubs video with voice cloning, all on your PC | Python, PySide6, PyTorch |
 | **[gfg Typeface](https://github.com/ShahFaisalGfG/gfgTypeface)** | Chromium extension for per-site fonts, text size relative to each site, and per-language fonts, with layouts left intact. Download it from [Releases](https://github.com/ShahFaisalGfG/gfgTypeface/releases/latest) | TypeScript, WXT |
 | **[YouTube Video Downloader](https://github.com/ShahFaisalGfG/youtube-video-downloader)** | Resumable downloader for playlists, videos, and Shorts that saves quality-labeled MP4s and survives restarts | Python, yt-dlp |
+| **[Demo Video](https://github.com/ShahFaisalGfG/demo-video)** | Agent Skill for Claude Code, Codex, and Cursor that records narrated product demos and tutorials with synchronized captions, then checks the final video shows what the narration says | Node.js, Playwright, FFmpeg |
 | **[CombGenUltimate](https://github.com/ShahFaisalGfG/CombGenUltimate)** | Character combination generator for building large sets of combinations | Python |
 | **[ContactsManager](https://github.com/ShahFaisalGfG/ContactsManager)** | Imports, cleans, and exports phone contacts from text, CSV, and Excel files | C#, Windows Forms |
 
